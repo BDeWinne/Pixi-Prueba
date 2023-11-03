@@ -25,7 +25,9 @@
     "author": "jkanchelov",
     "license": "MIT",
     "dependencies": {
+        "@pixi/sound": "^4.4.1",
         "core-js": "^3.26.0",
+        "gsap": "^3.12.2",
         "pixi-spine": "^3.0.16",
         "pixi.js": "^6.5.8",
         "regenerator-runtime": "^0.13.10"
